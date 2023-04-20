@@ -1,0 +1,21 @@
+.container {
+    display: flex;
+}
+
+#p1 {
+    width: 40%;
+}
+
+#p2 {
+    width: 60%;
+}
+
+input {
+    margin-left: 10px;
+    width: 100px;
+}
+
+button {
+    width: 50px;
+    margin-left: 10px;
+}
